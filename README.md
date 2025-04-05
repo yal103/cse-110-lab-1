@@ -1,6 +1,6 @@
 # cse-110-lab-1
 
-### User Page: | INSERT LINK |
+### User Page: https://yal103.github.io/cse-110-lab-1/
 ### NOTES:
 * The `screenshots` folder is located in the `main` (current) branch.
 * The `.gitignore` file is located in the `new-read-me` branch.
