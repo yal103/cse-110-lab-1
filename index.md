@@ -1,6 +1,6 @@
 # Hi, I'm Yangyang! <!-- omit in toc -->
 
-![me](photos/self.jpeg)
+<img src="photos/self.jpeg" alt="drawing" width="50%"/>
 
 ## Contents <!-- omit in toc -->
 - [About Me](#about-me)
